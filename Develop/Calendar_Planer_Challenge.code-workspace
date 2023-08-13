@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Calendar_Planer_Challenge",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02-Challenge",
+		"liveServer.settings.port": 5501
+	}
+}
