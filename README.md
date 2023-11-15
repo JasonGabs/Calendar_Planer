@@ -1,4 +1,4 @@
-# Calender Planer Challenge
+# Calender Planer 
 
 This application lets you write down your schedule and what time of day it is.
 
